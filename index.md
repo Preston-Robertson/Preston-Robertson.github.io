@@ -5,7 +5,9 @@
 ### Category Name 1 
 
 [Different ML Techniques on League of Legends Dataset](/pdf/LeagueOfLegendsProject.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/KNN.png?raw=true"/>
+<img src="images/Picture for Doc2.png?raw=true"/>
+<img src="images/scatterplot.png?raw=true"/>
 
 ---
 [Squish Activation Function](/pdf/sample_presentation.pdf)
@@ -19,7 +21,7 @@
 
 ### Category Name 2
 
-- [Different ML Techniques on League of Legends Dataset](http://example.com/)
+- [Different ML Techniques on League of Legends Dataset](/pdf/LeagueOfLegendsProject.pdf)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
