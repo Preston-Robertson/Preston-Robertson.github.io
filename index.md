@@ -10,7 +10,7 @@
 <!-- <img src="images/scatterplot.png?raw=true"/> -->
 
 ---
-[Squish Activation Function and the Basics of the LSTM](/pdf/Analysis of the LSTM to Update the Forget Gate to Improve Pattern.pdf)
+[Squish Activation Function and the Basics of the LSTM](/pdf/AnalysisoftheLSTMtoUpdatetheForgetGatetoImprovePattern.pdf)
 <img src="images/PlotOfSquishL.png?raw=true"/>
 
 ---
