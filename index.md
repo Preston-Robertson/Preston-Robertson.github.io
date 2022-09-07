@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Different ML Techniques on League of Legends Dataset](/sample_page)
+[Different ML Techniques on League of Legends Dataset](/pdf/LeagueOfLegendsProject.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
