@@ -11,7 +11,7 @@
 
 ---
 [Squish Activation Function + Basics of the LSTM](/pdf/Analysis of the LSTM to Update the Forget Gate to Improve Pattern.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/PlotOfSquishL.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
