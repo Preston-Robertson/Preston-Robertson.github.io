@@ -10,7 +10,7 @@
 <!-- <img src="images/scatterplot.png?raw=true"/> -->
 
 ---
-[Squish Activation Function and the Basics of the LSTM](/pdf/AnalysisoftheLSTMtoUpdatetheForgetGatetoImprovePattern.pdf)
+[Squish Activation Function and the Basics of the LSTM](/pdf/SquishAndLSTM.pdf)
 <img src="images/PlotOfSquishL.png?raw=true"/>
 
 ---
@@ -22,7 +22,7 @@
 ### Category Name 2
 
 - [Different ML Techniques on League of Legends Dataset](/pdf/LeagueOfLegendsProject.pdf)
-- [Squish Activation Function and the Basics of the LSTM](/pdf/Analysis of the LSTM to Update the Forget Gate to Improve Pattern.pdf)
+- [Squish Activation Function and the Basics of the LSTM](/pdf/SquishAndLSTM.pdf)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
