@@ -2,7 +2,11 @@
 
 ---
 
-### Category Name 1 
+### Research Projects 
+
+[The Squish Activation Function](/pdf/Squish.pdf)
+<img src="images/Squish Function.PNG?raw=true"/>
+---
 
 [Different ML Techniques on League of Legends Dataset](/pdf/LeagueOfLegendsProject.pdf)
 <img src="images/KNN.png?raw=true"/>
@@ -10,20 +14,19 @@
 <!-- <img src="images/scatterplot.png?raw=true"/> -->
 
 ---
-[Squish Activation Function and the Basics of the LSTM](/pdf/SquishAndLSTM.pdf)
+[An Analysis of the LSTM](/pdf/SquishAndLSTM.pdf)
 <img src="images/PlotOfSquishL.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
 ### Category Name 2
 
+- [The Squish Activation Function](/pdf/Squish.pdf)
 - [Different ML Techniques on League of Legends Dataset](/pdf/LeagueOfLegendsProject.pdf)
-- [Squish Activation Function and the Basics of the LSTM](/pdf/SquishAndLSTM.pdf)
-- [Project 3 Title](http://example.com/)
+- [An Analysis of the LSTM](/pdf/SquishAndLSTM.pdf)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
