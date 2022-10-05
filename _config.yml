@@ -1,10 +1,16 @@
 title: Preston Robertson # your name (or website title) here
 logo: "/images/Picture of Me Senior Year.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Portfolio of notable data science and machine learning engineering related projects.
+  Portfolio of notable data science and machine learning engineering related projects. 
+  This portfolio/website is not up to date and is a work in progress. 
+  Though, I do plan on having it up to date in the near future.
   <br><br>
+  Overall, these projects have been completed over the course of my undergraduate and graduate degrees.
+  With the exception of most of my research since it is under NDA. 
+  I hope this portfolio properly represents my passion for data science.
   <br><br>
   <a href="https://www.linkedin.com/in/preston-robertson-5b653222b/">View My LinkedIn Profile</a> 
+  <a href="https://www.kaggle.com/prestonrobertson7">View My Kaggle Profile</a> 
   
 theme: jekyll-theme-minimal
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here
