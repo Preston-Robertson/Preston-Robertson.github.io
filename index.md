@@ -8,10 +8,12 @@
 <img src="images/Squish Function.PNG?raw=true"/>
 ---
 
+---
 [Different ML Techniques on League of Legends Dataset](/pdf/LeagueOfLegendsProject.pdf)
 <img src="images/KNN.png?raw=true"/>
 <!-- <img src="images/Picture for Doc2.png?raw=true"/> -->
 <!-- <img src="images/scatterplot.png?raw=true"/> -->
+---
 
 ---
 [An Analysis of the LSTM](/pdf/SquishAndLSTM.pdf)
