@@ -9,7 +9,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   With the exception of most of my research since it is under NDA. 
   I hope this portfolio properly represents my passion for data science.
   <br><br>
-  <a href="https://www.linkedin.com/in/preston-robertson-5b653222b/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/preston-robertson-5b653222b/">View My LinkedIn Profile</a>
+  <br><br>
   <a href="https://www.kaggle.com/prestonrobertson7">View My Kaggle Profile</a> 
   
 theme: jekyll-theme-minimal
